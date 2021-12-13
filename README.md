@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Learned Ruby, Rails, JS at Le Wagon Lausanne
+
+Currently working on some cool stuff!
+
+
+
 <!--
 **juliequeloz/juliequeloz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
